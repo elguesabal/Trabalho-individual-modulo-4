@@ -1,5 +1,9 @@
 # Trabalho-individual-modulo-4
 
+
+![diagrama modulo 4](https://user-images.githubusercontent.com/113626409/215622140-c9657de1-4b43-4b2b-86a9-846812e348ba.png)
+
+
 Existem outras entidades além dessas três?
 Sim, professor e salas são dois exemplos.
 
