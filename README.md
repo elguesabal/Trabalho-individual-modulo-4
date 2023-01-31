@@ -22,7 +22,7 @@ Um aluno pode ter várias turmas (0,n).
 
 
 
-Script para criar o banco de dados:
+# Script para criar o banco de dados:
 
 1- Código para ativar o mysql:
 mysql -u root -p
