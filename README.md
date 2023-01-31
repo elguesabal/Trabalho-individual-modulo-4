@@ -60,7 +60,7 @@ describe turmas;
 describe alunos;
 
 
-#Veja abaixo na prática
+# Veja abaixo na prática
 
 ![print1](https://user-images.githubusercontent.com/113626409/215624359-1039b8a3-8048-4026-a934-0f4e34c8182f.png)
 ![print2](https://user-images.githubusercontent.com/113626409/215624377-699fe89c-f2f9-4dd8-901b-5342feab7cf6.png)
